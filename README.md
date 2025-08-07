@@ -9,8 +9,11 @@ Loan analysis ensures that loans are made on appropriate terms to clients who ca
 Key factors identified in this analysis:
 
 The number of good loans compared to bad loans
+
 The % of good loans to the overall loans given out
+
 The total sum of loan given out compare to loan repayment
+
 Analysing Bank loan transactions with SQL Server.
 
 ...
